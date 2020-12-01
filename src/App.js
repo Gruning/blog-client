@@ -1,9 +1,8 @@
 import React from 'react'
 
 export default () =>{
-    return (
-        <div>
+    return  <div>
             Blog App
         </div>
-    )
+
 }
