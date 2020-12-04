@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default ()=> {
+const PostCreate =()=> {
     return <div>
             <form>
                 <div className='form-group'>
@@ -12,3 +12,5 @@ export default ()=> {
         </div>
     
 }
+
+export default PostCreate
