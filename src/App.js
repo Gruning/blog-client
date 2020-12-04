@@ -1,8 +1,10 @@
 import React from 'react'
+import PostCreate from "./postCreate";
 
 export default () =>{
     return  <div>
-            client Blog App
+            <h1>Create Post</h1>
+            <PostCreate/>
         </div>
 
 }
